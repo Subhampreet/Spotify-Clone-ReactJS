@@ -1,6 +1,6 @@
 <img src="https://b8g9x2x5.rocketcdn.me/wp-content/uploads/2018/08/spotify-logo-1920x1080_fouoik.jpg" >
 
-<h1>Spotify Clone using ReactJS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" width="33">
+<h1><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png" width="33">Spotify Clone using ReactJS 
 </h1>
 
 <b>Spotify</b> is a Swedish-based audio streaming and media services provider, launched in October 2008. The platform is owned by Spotify AB, a publicly traded company on the 
